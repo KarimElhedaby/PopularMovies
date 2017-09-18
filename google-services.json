@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "398779251480",
+    "firebase_url": "https://popularmovies-e210d.firebaseio.com",
+    "project_id": "popularmovies-e210d",
+    "storage_bucket": "popularmovies-e210d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398779251480:android:f1a8d2707cc1dbd6",
+        "android_client_info": {
+          "package_name": "repoter.hamza.alif.popularmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398779251480-or17p91dgirkhui44pmfo16pue4pv9t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb0_TrI6y9KsVauvhQNf5NtxgQiKa9jEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
